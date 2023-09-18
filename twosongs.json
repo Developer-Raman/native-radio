@@ -1,0 +1,67 @@
+{
+  "song_id": "1",
+  "title": "Amazing Grace",
+  "artist": "John Newton",
+  "album": "Olney Hymns",
+  "year": 1779,
+  "genre": "Hymn",
+  "lyrics": [
+    "Amazing grace! How sweet the sound,",
+    "That saved a wretch like me!",
+    "I once was lost, but now I’m found,",
+    "Was blind, but now I see!"
+  ],
+  "chorus": [
+    "’Twas grace that taught my heart to fear,",
+    "And grace my fears relieved;",
+    "How precious did that grace appear",
+    "The hour I first believed!"
+  ],
+  "length": "3:35",
+  "record_label": "Olney Hymns Publishing",
+  "writers": ["John Newton"],
+  "producers": ["John Newton"],
+  "spotify_id": "",
+  "youtube_id": "6hgVihWjK2c",
+  "music_video": "",
+  "release_date": "1779",
+  "credits": {
+    "vocals": ["John Newton"],
+    "instrumentation": ["Piano", "Acoustic Guitar"]    
+  }
+},
+
+{
+  "song_id": "2",
+  "title": "Jesus I Love You So",
+  "artist": "William McDonald",
+  "album": "Revival Songs",
+  "year": 1962, 
+  "genre": "Gospel",
+  "lyrics": [
+    "I know a man who’s like no other man,",
+    "He died to save this world from sin,",
+    "And I’ll dedicate my life to serving Him,",
+    "He died so I could live."
+  ],
+  "chorus": [
+    "Jesus, I love you so,",
+    "And I want you to know,",
+    "What you’ve done for me is not in vain,",
+    "And I will stake my claim,",
+    "On Your Holy name.",
+    "Oh, how I love, I love you so."
+  ],
+  "length": "3:00",
+  "record_label": "Revival Records",
+  "writers": ["William McDonald"],
+  "producers": ["William McDonald"],
+  "spotify_id": "",
+  "youtube_id": "",
+  "music_video": "",
+  "release_date": "1962",
+  "credits": {
+    "vocals": ["William McDonald"], 
+    "instrumentation": ["Piano", "Bass", "Drums"]
+  }
+}
